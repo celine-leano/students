@@ -1,0 +1,15 @@
+{
+  "name": "cleanogr/328/students",
+  "authors": [
+    {
+      "name": "Celine Leano",
+      "email": "cemleano@gmail.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  },
+  "autoload": {
+    "classmap": ["classes/"]
+  }
+}
